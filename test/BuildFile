@@ -7,5 +7,5 @@
 <use name=clhep>
 
 <library file=AnalysisJV.cc name=AnalysisJV>
-<flags SEAL_PLUGIN_NAME="AnalysisJV">
+<flags EDM_PLUGIN=1>
 </library>
